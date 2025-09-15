@@ -111,7 +111,7 @@ The Power BI dashboard provides:
    ---
 
    ## Screenshots
-
+![dashboard](Images/dashboard.png)
    ---
 
 ## License
